@@ -2,27 +2,30 @@
 
 ## Le module `turtle`
 
-Vous allez utiliser le langage de programmation Python pour programmer un dessin grâce à une tortue. 
+Vous allez utiliser le langage de programmation Python pour programmer un dessin grâce à une tortue.
 
-Un programme informatique peut ressembler à ce que vous pouvez voir sur : https://trinket.io/library/trinkets/277a4cc24e
+Un programme informatique peut ressembler à ce que vous pouvez voir sur : <a href="https://trinket.io/library/trinkets/277a4cc24e" target="_blank">https://trinket.io/library/trinkets/277a4cc24e</a>
 
 Il est composé d’une liste (ou séquence) d’instructions qui sera exécuté par l’ordinateur dans l’ordre :
--	`import turtle` indique qu’on souhaite utiliser le module `turtle` dans notre programme
--	`turtle.shape('turtle')` définit la forme de notre tortue. `turtle` fait ici référence au module qu’on a importé précédemment
--	On dit à la tortue d’avancer de 128 pixels avec `turtle.forward(128)`
+
+- `import turtle` indique qu’on souhaite utiliser le module `turtle` dans notre programme
+- `turtle.shape('turtle')` définit la forme de notre tortue. `turtle` fait ici référence au module qu’on a importé précédemment
+- On dit à la tortue d’avancer de 128 pixels avec `turtle.forward(128)`
 
 Lorsque vous cliquez sur le bouton "Run", toutes les instructions sont exécutées l’une après l’autre et le résultat s’affiche dans l’onglet "Result".
 
 ## Se déplacer
 
 Le module turtle possède d’autres méthodes pour pouvoir dessiner dont :
--	`forward(d)` pour avancer d’une distance de `d` pixels
--	`backward(d)` pour reculer d’une distance de `d` pixels
--	`left(a)` pour tourner d’un angle `a` par la gauche
--	`right(a)` pour tourner d’un angle `a` par la droite
 
-Vous pouvez essayer ces différentes instructions en modifiant le programme précédent et voir votre résultat en exécutant à nouveau. 
+- `forward(d)` pour avancer d’une distance de `d` pixels
+- `backward(d)` pour reculer d’une distance de `d` pixels
+- `left(a)` pour tourner d’un angle `a` par la gauche
+- `right(a)` pour tourner d’un angle `a` par la droite
+
+Vous pouvez essayer ces différentes instructions en modifiant le programme précédent et voir votre résultat en exécutant à nouveau.
 Par exemple en rajoutant les lignes suivantes à la fin du programme:
+
 ```python
 turtle.left(90)
 turtle.forward(128)
