@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.markdown-body {
+    font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+}
+
 blockquote {
     background-color: #E3F2FD;
 }
