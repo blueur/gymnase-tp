@@ -9,6 +9,10 @@
 |   02   | Représentation de l'information | [Caractère & Image](1m/tp-02.md)        |
 |   03   | Programmation                   | [Python sur Jupyter](1m/tp-03.md)       |
 |        |                                 |                                         |
-|   10   | Architecture de l'ordinateur    | [Porte Logique](1m/tp-10.md)            |
+|   10   | Architecture des ordinateurs    | [Porte Logique](1m/tp-10.md)            |
 |   11   | Programmation                   | [Python avec Thonny](1m/tp-11.md)       |
-|   12   | Programmation                   | [Branchement Conditionnel](1m/tp-12.md) |
+|   12   | Programmation                   | Organigramme & Révision                 |
+|   13   | Enjeux Sociaux                  | Cinéma                                  |
+|        |                                 |                                         |
+|   20   | Programmation                   | Test & Manipulation                     |
+|   21   | Programmation                   | [Branchement Conditionnel](1m/tp-12.md) |
