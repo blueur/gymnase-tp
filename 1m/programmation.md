@@ -58,12 +58,54 @@ L'appel d'une fonction se fait à travers son identifiant (ici `print`) suivi de
 ```python
 print() # Imprime une ligne vide
 
-print(3) # Imprime '3' puis fait un retour à la ligne
+print(3) # Imprime '3' puis un retour à la ligne
 
-print(6, 12) # Imprime '6 12' puis fait un retour à la ligne
+print(6, 12) # Imprime '6 12' puis un retour à la ligne
 
 a = 32
-print(a, 4 - 2) # Imprime '32 2' puis fait un retour à la ligne
+print(a, 4 - 2) # Imprime '32 2' puis un retour à la ligne
+```
+
+## Type
+
+Chaque expression a un type. Le type défini la nature des valeurs possibles et par extension les opérations qui peuvent être appliquées à l'expression. 
+
+```python
+entier = 42 # a un type 'int'
+
+decimal = 3.14 # a un type 'float'
+
+texte = "Bonjour !" # a un type 'str'
+
+booleen = True # a un type 'bool'
+```
+
+Les opérateurs peuvent avoir des significations différentes suivant le type des expressions des opérandes :
+
+- `int + int` sera un `int` (opération arithmétique)
+- `int - float` sera un `float` (opération arithmétique entre un `int` et un `float` va donner un `float`)
+- `int / int` sera un `float` (une division donne un `float`)
+- `str + str` sera un `str` (concatenation entre deux chaines de caractères)
+- `str + int` erreur !
+
+## Saisie
+
+Pour demander des informations à l'utilisateur, on utilise la fonction `input` qui peut prendre 0 ou 1 argument. 
+
+Cette fonction va faire attendre le programme jusqu'à ce que l'utilisateur entre une chaine de caractère et appuie sur ENTER. 
+
+L'argument, s'il y a, doit être de type `str` et détermine qui sera affiché à l'utilisateur ce qu'on attend de lui. 
+
+La valeur retournée par `input` sera toujours de type `str`. 
+
+```python
+input() # attend un texte de l'utilisateur
+
+input("Quel est votre nom ?") # affiche 'Quel est votre nom', puis attend un texte de l'utilisateur
+
+nom = input("Quel est votre nom ?") # met la valeur entrée par l'utilisateur dans la variable 'nom'
+
+texte = input("Quel âge avez-vous ?") # Peu importe la question, le type de la variable sera toujours une 'str'
 ```
 
 ---
