@@ -16,6 +16,8 @@ L'ordinateur va lire ligne par ligne le programme donné et dans chaque ligne, l
 
 Il vérifie tout d'abord si le programme suit bel et bien les règles définies par le langage, puis exécute le programme ligne par ligne.
 
+> Vous pouvez exécuter votre code sur [l'éditeur Gymnacode](https://gymnacode.web.app/editor). 
+
 ## Calcul & Expression
 
 Une des fonctionnalités primaires du programme est de pouvoir faire des calculs. La syntaxe est la suivante : `expr op expr`
