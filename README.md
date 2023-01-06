@@ -14,8 +14,8 @@
 |   12   | Programmation                   | Organigramme & Révision                 |
 |   13   | Enjeux Sociaux                  | Cinéma                                  |
 |        |                                 |                                         |
-|   20   | Programmation                   | Test & Manipulation                     |
-|   21   | Programmation                   | [Branchement Conditionnel](1m/tp-12.md) |
+|   20   | Programmation                   | Test & [Terminal](1m/tp-20.md)           |
+|   21   | Programmation                   | [Branchement Conditionnel](1m/tp-21.md) |
 
 ## Théorie
 
