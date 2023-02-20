@@ -15,8 +15,8 @@
 |   13   | Enjeux Sociaux                  | Cinéma                                        |
 |        |                                 |                                               |
 |   20   | Programmation                   | Test & [Terminal](1m/tp-20.md)                |
-|   21   | Programmation                   | [If](1m/tp-21.md)                             |
-|   22   | Programmation                   | [Projet](1m/projet.md) & [While](1m/tp-21.md) |
+|   21   | Programmation                   | [If](1m/tp-21.md#if)                             |
+|   22   | Programmation                   | [Projet](1m/projet.md) & [While](1m/tp-21.md#while) |
 
 ## Théorie
 
