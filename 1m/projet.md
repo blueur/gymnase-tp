@@ -8,7 +8,7 @@ Créer un petit jeu textuel en Python.
 
 Le type de jeu est libre mais voici quelques inspirations :
 - **Un livre dont vous êtes le héros** : Vous jouez un personnage et décidez de ses actions. Suivant l'action choisie, le personnage va rencontrer différent événements. 
-- **Quiz** : Posez une série de question et donnez le score final
+- **Quiz** : Posez une série de question et donnez le score final. 
 
 ## Dévelopement
 
@@ -20,11 +20,11 @@ Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:t
 
 ## Evaluation
 
-- Créativité : 2 pts
-- Jouabilité : 2 pts
+- Originalité : 4 pts
+- Jouabilité/Facilité d'utilisation : 3 pts
 - Gestion des entrées/erreurs : 2 pts
 - Lisibilité du code (avec éventuellement des commentaires) : 2 pts
-- Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"} : 2 pts
+- Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"} : 1 pts
 - Utilisation & nommage des variables : 2 pts
 - Utilisation des branchements conditionnels : 2 pts
 - Explication : 2 pts
