@@ -20,18 +20,32 @@ Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:t
 
 ## Evaluation
 
-- Originalité : 4 pts
-- Jouabilité/Facilité d'utilisation : 3 pts
-- Gestion des entrées/erreurs : 2 pts
-- Lisibilité du code (avec éventuellement des commentaires) : 2 pts
-- Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"} : 1 pts
-- Utilisation & nommage des variables : 2 pts
-- Utilisation des branchements conditionnels : 2 pts
-- Explication : 2 pts
+- 2 pts : Originalité
+- 2 pts : Jouabilité/Facilité d'utilisation
+  - Gestion de la casse (majuscule/minuscule) : voir [lower()](https://www.w3schools.com/python/ref_string_lower.asp){:target="_blank"}
+  - Facile de sélectionner une réponse (en acceptant 'o' pour 'oui' et 'n' pour 'non' par exemple)
+- 3 pts : Gestion des entrées/erreurs
+  - Gérer le cas où l'utilisateur entre n'importe quoi
+  - Indiquer clairement lorsque l'entrée n'est pas valide
+  - Ne pas arrêter le jeu lors d'une entrée invalide
+- 2 pts : Lisibilité du code (avec éventuellement des commentaires)
+- 1 pts : Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"}
+  - Sur l'interface, collez votre code dans la partie gauche et le code sera formatté dans la partie de droite
+- 2 pts : Utilisation & nommage des variables
+- 2 pts : Utilisation des branchements conditionnels
+- 2 pts : Explication après le rendu
+  - Être capable de justifier chaque ligne de code (pourquoi tel ou tel choix)
+
+### Conditions
+
+Si les conditions suivantes ne sont pas toutes remplies, la note de 1 sera attribuée :
+- Le code doit être rendu à temps
+- L'arbre de décision doit être différent des exemples
+- Tout le code doit ne doit pas être similaire à celui de vos camarades ou à un exemple sur internet (inspirer mais pas copier)
 
 ## Rendu
 
-Le code Python sera à rendre sur Teams en mai. 
+Le code Python sera à rendre sur Teams avant le **mercredi 10 mai 2023 à 23h59**. 
 Après le rendu, il y aura une session de question-réponse avec l'enseignant d'environ 5 minutes pour comprendre votre démarche et les choix que vous avez fait. 
 
 ## Exemple
