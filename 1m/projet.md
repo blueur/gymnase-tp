@@ -32,7 +32,7 @@ Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:t
 - 1 pts : Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"}
   - Sur l'interface, collez votre code dans la partie gauche et le code sera formatté dans la partie de droite
 - 2 pts : Utilisation & nommage des variables
-- 2 pts : Utilisation des branchements conditionnels
+- 2 pts : Le code doit comporter au moins 4 embranchements (4 : 0 pt, 5 : 1 pt, 6+ : 2 pts)
 - 2 pts : Explication après le rendu
   - Être capable de justifier chaque ligne de code (pourquoi tel ou tel choix)
 
@@ -45,7 +45,7 @@ Si les conditions suivantes ne sont pas toutes remplies, la note de 1 sera attri
 
 ## Rendu
 
-Le code Python sera à rendre sur Teams avant le **mercredi 10 mai 2023 à 23h59**. 
+Le code Python et l'arbre de décision seront à rendre sur Teams avant le **mercredi 10 mai 2023 à 23h59**. 
 Après le rendu, il y aura une session de question-réponse avec l'enseignant d'environ 5 minutes pour comprendre votre démarche et les choix que vous avez fait. 
 
 ## Exemple
