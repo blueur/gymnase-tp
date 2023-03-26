@@ -25,7 +25,7 @@ Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:t
 Tous les critères suivants doivent être remplis pour que le rendu soit accepté (note de 1 sinon) : 
 
 - Le code et l'arbre de décision doivent être rendu à temps
-- L'arbre de décision doit être différent des exemples
+- L'arbre de décision doit avoir une structure différente des exemples
 - Tout le code doit ne doit pas être similaire à celui de vos camarades ou à un exemple sur internet (inspirer mais pas copier)
 
 ### Critères minimaux
@@ -37,7 +37,7 @@ Tous les critères suivants doivent être remplis pour avoir au moins 4 :
 - Au moins 2 types d'embranchements différents et pas les deux mêmes que ceux de l'exemple (oui/non et a/b/c)
 - Être capable de justifier chaque ligne de son code (pourquoi tel ou tel choix)
 
-### Critères recommandés
+### Critères d'amélioration
 
 Les critères suivants permettent d'atteindre le 6 (une fois que les critères minimaux soient tous validés) :
 
@@ -57,8 +57,11 @@ Les critères suivants peuvent être considérés en ajoutant des points bonus :
 
 ## Rendu
 
-Le code Python et l'arbre de décision seront à rendre sur Teams avant le **mercredi 10 mai 2023 à 23h59**. 
-Après le rendu, il y aura une session de question-réponse avec l'enseignant d'environ 5 minutes pour comprendre votre démarche et les choix que vous avez fait. 
+Les éléments suivants seront à rendre sur Teams dans le devoir "Projet de programmation" avant le **mercredi 10 mai 2023 à 23h59**. 
+- un fichier .py contenant le code exécutable
+- l'arbre de décision du programme (un scan, une photo, un schéma, ...) avec des mots-clefs juste pour avoir une vision globale
+
+Après le rendu, il y aura une session individuelle de question-réponse les **mercredis 17 (groupe B) et 24 (groupe A) mai** avec l'enseignant d'environ 5 minutes pour comprendre votre démarche et les choix que vous avez fait. 
 
 ## Exemple
 
