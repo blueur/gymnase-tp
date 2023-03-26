@@ -19,6 +19,12 @@
 |        |                                 |                                                     |
 |   30   | Programmation                   | [Projet](1m/projet.md) & [While](1m/tp-21.md#while) |
 |   31   | Programmation                   | [Fonction](1m/tp-31.md) & [Projet](1m/projet.md)    |
+|   32   | Programmation                   | [Liste](1m/tp-32.md) & [Projet](1m/projet.md)       |
+|        |                                 |                                                     |
+|   40   | Programmation                   | 03.05.2023 (facultatif) [Projet](1m/projet.md)      |
+|   41   | Enjeux Sociaux                  | 10.05.2023 (toute la classe) Musée de la Main       |
+|   42   | Programmation                   | Explication projet & Tester les autres projets      |
+|   43   | Enjeux Sociaux                  | Cinéma                                              |
 
 ## Théorie
 

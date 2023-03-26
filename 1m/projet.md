@@ -20,28 +20,40 @@ Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:t
 
 ## Evaluation
 
-- 2 pts : Originalité
-- 2 pts : Jouabilité/Facilité d'utilisation
-  - Gestion de la casse (majuscule/minuscule) : voir [lower()](https://www.w3schools.com/python/ref_string_lower.asp){:target="_blank"}
-  - Facile de sélectionner une réponse (en acceptant 'o' pour 'oui' et 'n' pour 'non' par exemple)
-- 3 pts : Gestion des entrées/erreurs
-  - Gérer le cas où l'utilisateur entre n'importe quoi
-  - Indiquer clairement lorsque l'entrée n'est pas valide
-  - Ne pas arrêter le jeu lors d'une entrée invalide
-- 2 pts : Lisibilité du code (avec éventuellement des commentaires)
-- 1 pts : Le code est formatté avec [Black](https://black.vercel.app/){:target="_blank"}
-  - Sur l'interface, collez votre code dans la partie gauche et le code sera formatté dans la partie de droite
-- 2 pts : Utilisation & nommage des variables
-- 2 pts : Le code doit comporter au moins 4 embranchements (4 : 0 pt, 5 : 1 pt, 6+ : 2 pts)
-- 2 pts : Explication après le rendu
-  - Être capable de justifier chaque ligne de code (pourquoi tel ou tel choix)
+### Critères d'acceptation
 
-### Conditions
+Tous les critères suivants doivent être remplis pour que le rendu soit accepté (note de 1 sinon) : 
 
-Si les conditions suivantes ne sont pas toutes remplies, la note de 1 sera attribuée :
-- Le code doit être rendu à temps
+- Le code et l'arbre de décision doivent être rendu à temps
 - L'arbre de décision doit être différent des exemples
 - Tout le code doit ne doit pas être similaire à celui de vos camarades ou à un exemple sur internet (inspirer mais pas copier)
+
+### Critères minimaux
+
+Tous les critères suivants doivent être remplis pour avoir au moins 4 : 
+
+- Le code doit être exécutable sans erreur
+- Le code doit contenir au moins 4 embranchements (gérer 4 entrées de l'utilisateur)
+- Au moins 2 types d'embranchements différents et pas les deux mêmes que ceux de l'exemple (oui/non et a/b/c)
+- Être capable de justifier chaque ligne de son code (pourquoi tel ou tel choix)
+
+### Critères recommandés
+
+Les critères suivants permettent d'atteindre le 6 (une fois que les critères minimaux soient tous validés) :
+
+- 0.25-0.5 : Appliquer les [bonnes pratiques PEP 8](https://www.carnets.info/python/pep8/){:target="_blank"} (indentation de 2 espaces acceptée)
+- 0.25-0.5 : Le code contient plus d'embranchements et de types significativement différents
+- 0.25 : Lisibilité du code (avec éventuellement des commentaires)
+- 0.25 : Facile de sélectionner une réponse (en acceptant 'o' pour 'oui' et 'n' pour 'non' par exemple ainsi que les majuscules, voir [lower()](https://www.w3schools.com/python/ref_string_lower.asp){:target="_blank"})
+- 0.25 : Ne pas arrêter le jeu lors d'une entrée invalide
+- 0.25 : Utilisation et nommage des fonctions
+
+### Critères bonus
+
+Les critères suivants peuvent être considérés en ajoutant des points bonus :
+
+- Originalité et/ou complexité de l'histoire
+- Originalité et/ou complexité du code
 
 ## Rendu
 
