@@ -34,26 +34,26 @@ Tous les critères suivants doivent être remplis pour avoir au moins 4 :
 
 - Le code doit être exécutable sans erreur
 - Le code doit contenir au moins 4 embranchements (gérer 4 entrées de l'utilisateur)
-- Au moins 2 types d'embranchements différents et pas les deux mêmes que ceux de l'exemple (oui/non et a/b/c)
+- Au moins 3 types d'embranchements différents et au moins deux différents de ceux de l'exemple (oui/non et a/b/c)
 - Être capable de justifier chaque ligne de son code (pourquoi tel ou tel choix)
 
 ### Critères d'amélioration
 
 Les critères suivants permettent d'atteindre le 6 (une fois que les critères minimaux soient tous validés) :
 
-- 0.25-0.5 : Appliquer les [bonnes pratiques PEP 8](https://www.carnets.info/python/pep8/){:target="_blank"} (indentation de 2 espaces acceptée)
-- 0.25-0.5 : Le code contient plus d'embranchements et de types significativement différents
+- 0.5  : Appliquer les [bonnes pratiques PEP 8](https://www.carnets.info/python/pep8/){:target="_blank"} (indentation de 2 espaces acceptée)
+- 0.5  : Le code contient plus d'embranchements et de types significativement différents
 - 0.25 : Lisibilité du code (avec éventuellement des commentaires)
 - 0.25 : Facile de sélectionner une réponse (en acceptant 'o' pour 'oui' et 'n' pour 'non' par exemple ainsi que les majuscules, voir [lower()](https://www.w3schools.com/python/ref_string_lower.asp){:target="_blank"})
 - 0.25 : Ne pas arrêter le jeu lors d'une entrée invalide
-- 0.25 : Utilisation et nommage des fonctions
+- 0.25 : Utilisation et bon nommage des fonctions
 
 ### Critères bonus
 
 Les critères suivants peuvent être considérés en ajoutant des points bonus :
 
 - Originalité et/ou complexité de l'histoire
-- Originalité et/ou complexité du code
+- Le code est particulièrement lisible et descriptif
 
 ## Rendu
 
@@ -61,7 +61,7 @@ Les éléments suivants seront à rendre sur Teams dans le devoir "Projet de pro
 - un fichier .py contenant le code exécutable
 - l'arbre de décision du programme (un scan, une photo, un schéma, ...) avec des mots-clefs juste pour avoir une vision globale
 
-Après le rendu, il y aura une session individuelle de question-réponse les **mercredis 17 (groupe B) et 24 (groupe A) mai** avec l'enseignant d'environ 5 minutes pour comprendre votre démarche et les choix que vous avez fait. 
+Après le rendu, il y aura une session individuelle **obligatoire** de question-réponse les **mercredis 17 (groupe B) et 24 (groupe A) mai** avec l'enseignant d'environ 5 minutes pour que vous expliquiez votre démarche et les choix que vous aviez fait. 
 
 ## Exemple
 
