@@ -41,17 +41,17 @@ Tous les critères suivants doivent être remplis pour avoir au moins 4 :
 
 Les critères suivants permettent d'atteindre le 6 (une fois que les critères minimaux soient tous validés) :
 
+- 0.5  : Ne pas arrêter le jeu lors d'une entrée invalide (utilisation des boucles)
+- 0.5  : Utilisation et bon nommage des fonctions
 - 0.5  : Appliquer les [bonnes pratiques PEP 8](https://www.carnets.info/python/pep8/){:target="_blank"} (indentation de 2 espaces acceptée)
-- 0.5  : Le code contient plus d'embranchements et de types significativement différents
 - 0.25 : Lisibilité du code (avec éventuellement des commentaires)
 - 0.25 : Facile de sélectionner une réponse (en acceptant 'o' pour 'oui' et 'n' pour 'non' par exemple ainsi que les majuscules, voir [lower()](https://www.w3schools.com/python/ref_string_lower.asp){:target="_blank"})
-- 0.25 : Ne pas arrêter le jeu lors d'une entrée invalide
-- 0.25 : Utilisation et bon nommage des fonctions
 
 ### Critères bonus
 
 Les critères suivants peuvent être considérés en ajoutant des points bonus :
 
+- Le code contient plus d'embranchements et de types significativement différents
 - Originalité et/ou complexité de l'histoire
 - Le code est particulièrement lisible et descriptif
 
