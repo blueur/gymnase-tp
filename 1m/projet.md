@@ -57,11 +57,14 @@ Les critères suivants peuvent être considérés en ajoutant des points bonus :
 
 ## Rendu
 
-Les éléments suivants seront à rendre sur Teams dans le devoir "Projet de programmation" avant le **mercredi 10 mai 2023 à 23h59**. 
+Les éléments suivants seront à rendre sur Teams dans le devoir "Projet de programmation" avant le **mercredi 10 mai 2023 à 23h59** :
 - un fichier .py contenant le code exécutable
 - l'arbre de décision du programme (un scan, une photo, un schéma, ...) avec des mots-clefs juste pour avoir une vision globale
+- Renommez vos fichiers avec vos prénom et nom, par exemple : `prenom_nom.py`
 
 Après le rendu, il y aura une session individuelle **obligatoire** de question-réponse les **mercredis 17 (groupe B) et 24 (groupe A) mai** avec l'enseignant d'environ 5 minutes pour que vous expliquiez votre démarche et les choix que vous aviez fait. 
+
+> Vos programmes seront testés par vos autres camarades de classe pendant ce temps-là. Si vous ne souhaitez pas partager votre jeu, envoyez-moi un e-mail pour m'en avertir. 
 
 ## Exemple
 
