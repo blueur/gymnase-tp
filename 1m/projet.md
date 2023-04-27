@@ -17,6 +17,8 @@ Commencez par faire un plan simple sur papier de votre jeu (organigramme des 2-3
 Vous pouvez utiliser l'[éditeur Gymnacode](https://gymnacode.web.app/editor){:target="_blank"} ou le logiciel Thonny installé sur les ordinateurs pour écrire votre programme. 
 
 > Faites bien attention d'enregistrer votre travail en cours sur OneDrive pour pouvoir le reprendre la prochaine fois. 
+> - Pour enregistrer votre travail sur Gymnacode, cliquez sur "Télécharger", puis mettre le fichier téléchargé sur votre compte OneDrive. 
+> - Pour reprendre votre travail sur Gymnacode, cliquez sur "Téléverser", puis sélectionnez la dernière version de votre projet sur OneDrive. 
 
 ## Evaluation
 
