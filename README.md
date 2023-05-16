@@ -23,7 +23,7 @@
 |        |                                 |                                                         |
 |   40   | Programmation                   | 03.05.2023 (facultatif) [Projet](1m/projet.md)          |
 |   41   | Enjeux Sociaux                  | 10.05.2023 (toute la classe) Musée de la Main           |
-|   42   | Programmation                   | Explication projet & Tester les autres projets          |
+|   42   | Programmation                   | [Explication Projet](1m/tp-42.md)                       |
 |   43   | Enjeux Sociaux                  | Cinéma                                                  |
 
 ## Théorie
