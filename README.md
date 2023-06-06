@@ -25,6 +25,7 @@
 |   41   | Enjeux Sociaux                  | 10.05.2023 (toute la classe) Musée de la Main           |
 |   42   | Programmation                   | [Explication Projet](1m/tp-42.md)                       |
 |   43   | Enjeux Sociaux                  | Cinéma                                                  |
+|   44   | Enjeux Sociaux                  | [Jeux vidéo](1m/tp-44.md)                               |
 
 ## Théorie
 
